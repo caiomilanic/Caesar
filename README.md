@@ -1,6 +1,7 @@
 # Caesar’s cipher
 
 #### Written in C, this program encrypts messages using Caesar's cipher
+This project is part of Harvard's CS50x course.
 
 ### Overview
 
@@ -37,6 +38,6 @@ ciphertext: uryyb, jbeyq
 
 ### Author
 
-Caio Milani
+*caiomilanic*
 
 find me @ https://github.com/caiomilanic
